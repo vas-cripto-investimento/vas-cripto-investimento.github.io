@@ -4,13 +4,10 @@ google-ID: 'UA-162829284-3'
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/icheft'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/brianlhchen/'}
-- {icon: 'envelope', link: 'mailto:brian.lxchen@gmail.com'}
-- {icon: 'instagram', link: 'https://instagram.com/brian_lxchen'}
-- {icon: 'facebook', link: 'https://facebook.com/brian.lxchen'}
+- {icon: 'envelope', link: 'mailto:vas.cripto.investimento@gmail.com'}
+- {icon: 'instagram', link: 'https://instagram.com/vas.cripto.investimento'}
 
 
 # Customize site text
-title: "imagine | Onepage Jekyll Theme"
-header: "imagine"
+title: "V.A.S - Compra e venda de criptomoedas"
+header: ""
